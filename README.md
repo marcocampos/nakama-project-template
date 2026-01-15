@@ -135,3 +135,6 @@ The model itself is located in the [./model](./model) directory.
 The development roadmap is managed as GitHub issues and pull requests are welcome. If you're interested to add a gameplay feature as a new example; which is not mentioned on the issue tracker please open one to create a discussion or drop in and discuss it in the [community forum](https://forum.heroiclabs.com).
 
 Finally, we love feedback and would love to hear from you. Please join our [Forums](https://forum.heroiclabs.com/) and connect with us today!
+
+---
+Happy Hacking!
