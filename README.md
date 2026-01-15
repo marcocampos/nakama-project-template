@@ -137,5 +137,5 @@ The development roadmap is managed as GitHub issues and pull requests are welcom
 Finally, we love feedback and would love to hear from you. Please join our [Forums](https://forum.heroiclabs.com/) and connect with us today!
 
 ---
-Happy Hacking again v7!
+Happy Hacking again v8!
 
