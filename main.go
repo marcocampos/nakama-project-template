@@ -29,7 +29,7 @@ var (
 	errNoInputAllowed = runtime.NewError("no input allowed", 3)       // INVALID_ARGUMENT
 	errNoUserIdFound  = runtime.NewError("no user ID in context", 3)  // INVALID_ARGUMENT
 	errUnmarshal      = runtime.NewError("cannot unmarshal type", 13) // INTERNAL
-)
+
 
 const (
 	rpcIdRewards   = "rewards"
